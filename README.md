@@ -32,7 +32,7 @@ Once succesfully logged into the application you are met with a gui that include
 
 ![alt text](https://i.ibb.co/Fs39Fh2/pw-manager.png) ![alt text](https://i.ibb.co/vvxksZL/insert-shot.png)
 
-After some information is entered into the database you can use to get button to retreive and display the table entries. The username and password values are encrypted by default and can be decrypted by clicking on the desired row in the table. Once clicked the row will turn green and will display the usernames and passwords in plaintext until the row is clicked again and is encrypted once again.
+After some information is entered into the database you can use to get button to retreive and display the table entries. The username and password values are encrypted by default and can be decrypted by clicking on the desired row in the table. Once clicked the row will turn green and will display the usernames and passwords in plaintext until the row is clicked a second time and is encrypted once again.
 
 
 ![alt text](https://i.ibb.co/Gn93Rh0/encrypted.png) ![alt text](https://i.ibb.co/54vFb9v/unencrypted.png)
