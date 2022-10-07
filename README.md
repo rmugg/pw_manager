@@ -1,6 +1,6 @@
 # pw_manager
 
-This is a local password manager that ultilizes AES allowing for viewing and storing of encrypted passwords inside a MySQL table. The programs requires a table named "secrets" to be created and it also needs for the database for which the table is in to be specified (default is 'sList'). 
+This is a local password manager that ultilizes AES allowing for viewing and storing of encrypted passwords inside a MySQL table. The programs requires a table named "secrets" to be created and it also needs for the database to be named 'sList' (default is 'sList') or have the code changed below to reflect the databases name you wish to use. 
 
 
 The code for the table and trigger generation is included in the database.sql file inside 'src/main/java/com'
